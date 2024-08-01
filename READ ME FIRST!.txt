@@ -1,9 +1,8 @@
-# Real Estate Management Information System
-### A project build using php
-
 **Developed By  Eiroc Systems**
+*https://www.eirocsystems.com*
 
 *******************************************************
+
 Step 1: Download source code.
 First, download the source code given below.
 
